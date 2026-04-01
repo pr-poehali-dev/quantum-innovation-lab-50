@@ -8,7 +8,7 @@ const projects = [
     category: "Частный двор",
     location: "Пермь, Свердловский район",
     year: "2024",
-    image: "/images/hously-1.png",
+    image: "https://cdn.poehali.dev/projects/831690cf-0f7d-4d36-8282-314f9d648f4d/files/f1d67d5d-7d15-445a-9f88-ee1787c1ddcc.jpg",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const projects = [
     category: "Коммерческий объект",
     location: "Пермь, Индустриальный район",
     year: "2024",
-    image: "/images/hously-2.png",
+    image: "https://cdn.poehali.dev/projects/831690cf-0f7d-4d36-8282-314f9d648f4d/files/444ecf70-1e9b-4dd5-9332-58fdfa04b4d0.jpg",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const projects = [
     category: "Загородный участок",
     location: "Пермский край, Краснокамск",
     year: "2023",
-    image: "/images/hously-3.png",
+    image: "https://cdn.poehali.dev/projects/831690cf-0f7d-4d36-8282-314f9d648f4d/files/c015fdc4-6287-4396-9f10-88c6175742be.jpg",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const projects = [
     category: "Многоквартирный дом",
     location: "Пермь, Кировский район",
     year: "2023",
-    image: "/images/hously-4.png",
+    image: "https://cdn.poehali.dev/projects/831690cf-0f7d-4d36-8282-314f9d648f4d/files/922ed28b-b9ac-42ce-b2ce-dd439f638fdb.jpg",
   },
 ]
 
